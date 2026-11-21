@@ -1,8 +1,8 @@
-// Genera docs/Informe_ShazamClone.docx (Fase 8.4).
+// Genera docs/Informe_SonicMatch.docx (Fase 8.4).
 //
 // Uso (desde docs/informe/):
 //   npm install                 # una vez: instala docx
-//   npm run build               # escribe ../Informe_ShazamClone.docx
+//   npm run build               # escribe ../Informe_SonicMatch.docx
 //
 // Después, abrir el documento en Word y actualizar el índice
 // (clic derecho sobre el índice > Actualizar campos > Actualizar toda la tabla).
@@ -20,7 +20,7 @@ const {
 
 const REPO = path.resolve(__dirname, "..", "..");
 const FIG = path.join(REPO, "docs", "figures");
-const OUT = path.join(REPO, "docs", "Informe_ShazamClone.docx");
+const OUT = path.join(REPO, "docs", "Informe_SonicMatch.docx");
 const CONTENT_DXA = 11906 - 2 * 1440; // A4 con márgenes de 1"
 const CONTENT_PX = Math.round((CONTENT_DXA / 1440) * 96);
 const FONT = "Calibri";

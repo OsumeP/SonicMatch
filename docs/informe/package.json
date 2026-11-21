@@ -1,7 +1,7 @@
 {
-  "name": "informe-shazamclone",
+  "name": "informe-SonicMatch",
   "private": true,
-  "description": "Genera docs/Informe_ShazamClone.docx",
+  "description": "Genera docs/Informe_SonicMatch.docx",
   "scripts": {
     "build": "node generar_informe.js"
   },

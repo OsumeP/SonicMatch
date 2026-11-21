@@ -51,4 +51,4 @@ Entropía mediana de la música limpia: 0.558
 | 0 | 22.1 | 10.6 | 6.2 | 31,026 |
 | -5 | 8.7 | 5.2 | 2.6 | 12,972 |
 
-Figuras en D:\1_OsumeP\UNAL\TeoInfo\ShazamClone\docs\figures; tablas en D:\1_OsumeP\UNAL\TeoInfo\ShazamClone\evaluation\results\fase5_teoria.md
+Figuras en D:\1_OsumeP\UNAL\TeoInfo\SonicMatch\docs\figures; tablas en D:\1_OsumeP\UNAL\TeoInfo\SonicMatch\evaluation\results\fase5_teoria.md

@@ -49,7 +49,7 @@ async def lifespan(_app: FastAPI):
 
 
 app = FastAPI(
-    title="ShazamClone — Reconocimiento por huellas acústicas",
+    title="SonicMatch — Reconocimiento por huellas acústicas",
     description="STFT → mapa de constelación → hashing combinatorio → coherencia temporal.",
     version="1.0.0",
     lifespan=lifespan,
